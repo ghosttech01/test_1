@@ -1,2 +1,2 @@
-# test_1
-setting up git
+# Test_1
+Setting Up Git
